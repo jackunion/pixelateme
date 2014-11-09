@@ -1,0 +1,10 @@
+canvas {
+  margin: 50px;
+}
+
+label,
+input,
+button {
+  display: block;
+  margin-left: 50px;
+}
