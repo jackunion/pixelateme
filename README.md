@@ -1,4 +1,4 @@
-## Pixelateme
+# pixelateme
 
 http://cssdeck.com/labs/nwv5o1g1
 
